@@ -83,6 +83,4 @@ Created a **2D scatter plot** to visualize the transformed dataset.
 - Improves machine learning performance.
 - Helps visualize complex datasets.
 
----
 
-## 📁 Project Structure
